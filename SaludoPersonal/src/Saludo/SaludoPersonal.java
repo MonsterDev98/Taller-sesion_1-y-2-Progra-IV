@@ -12,6 +12,6 @@ package Saludo;
 public class SaludoPersonal {
     public static void main(String args[]){
         
-        System.out.println("Cesar, bienvenido al curso de Programación en Java!!!"); // imprime un saludo en 
+        System.out.println("Cesar, bienvenido al curso de Programación en Java!!!"); // imprime un saludo 
     }
-} en Java
+}
